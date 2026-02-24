@@ -89,4 +89,4 @@ docker-compose down
 
 ## Disciplina
 
-Banco de Dados NoSQL — Trabalho Final (persistência poliglota).
+Banco de Dados NoSQL — Trabalho Final.
